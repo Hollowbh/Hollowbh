@@ -7,7 +7,15 @@
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 My Journey Or Something Like That ?
 [![Hollowbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollowbh&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollowbh&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### My Links <33
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Hollowbh)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hollowbh&color=33CCEE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hollowbh)
+
+---
