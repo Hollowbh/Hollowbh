@@ -16,7 +16,7 @@
 
 ### My Links <33
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Hollowbh)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hollowbh&color=33CCEE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hollowbh)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHollowbh&count_bg=%2333CCEE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Snake Animation](https://raw.githubusercontent.com/Hollowbh/Hollowbh/output/github-contribution-grid-snake-dark.svg)
 ---
