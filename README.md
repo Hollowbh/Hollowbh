@@ -7,7 +7,7 @@
 
 ---
 
-### 📊 My Journey Or Something Like That ?
+### 📊 My Dogventure Or Something Like That ?
 [![Hollowbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollowbh&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hollowbh&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
